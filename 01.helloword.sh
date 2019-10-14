@@ -1,4 +1,4 @@
-#!/user/bin/env bash
+#!/user/bin/bash
 #
 #filepath:shell/01.helloworld.sh
 #email:912957843@qq.com
